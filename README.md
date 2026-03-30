@@ -6,4 +6,4 @@
 - Tomas Alejandro Gonzalez Orozco - ID:1126660
 
   
-"A partir de un libro de fundamentos de programación, analizaremos los ejercicios en pseudocódigo para traducirlos y codificarlos en la sintaxis de DFD"
+A partir de un libro de fundamentos de programación, analizaremos los ejercicios en pseudocódigo para traducirlos y codificarlos en la sintaxis de DFD
